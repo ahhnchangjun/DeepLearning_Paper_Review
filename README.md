@@ -1,6 +1,6 @@
 # 딥러닝 논문 리뷰: DeepLearning Paper Review
 * 제가 읽고 이해한 논문 리뷰를 위한 저장소 입니다.
-* Computer vision, Continual Learning 많은 인기를 끌고 있는 다양한 딥러닝 논문에 대해 소개합니다.
+* Computer vision, Continual Learning 분야에서 다양한 딥러닝 논문에 대해 소개합니다.
 * 논문에 대한 많은 경험이 없기에 논문에 대한 이해도가 부족하거나 잘못 리뷰한 경우 피드백 주시면 감사드리겠습니다.
 
 
