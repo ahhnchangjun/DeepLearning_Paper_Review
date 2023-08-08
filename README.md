@@ -7,7 +7,7 @@
 **Continual Learning**
 
 * iCaRL: Incremental Classifier and Representation Learning **(CVPR 2017)**
-  * [Paper Link](https://arxiv.org/abs/1611.07725) / [Paper review PDF](https://github.com/ahhnchangjun/DeepLearning_Paper_Review/blob/main/summary_notes/Incremental%20Classifier%20and%20Representation%20Learning.pdf) / [Code](https://github.com/ahhnchangjun/Continual_Learning/tree/main/iCaRL_PyTorch)
+  * [Paper Link](https://arxiv.org/abs/1611.07725) / [Paper review PDF](https://github.com/ahhnchangjun/DeepLearning_Paper_Review/blob/main/summary_notes/Incremental%20Classifier%20and%20Representation%20Learning.pdf) / [Code](https://github.com/DRSAD/iCaRL)
 
 * EEIL: End to End Incremental Learning **(EECV2018)**
   * [Paper Link](https://arxiv.org/abs/1807.09536) / [Paper review PDF](https://github.com/ahhnchangjun/DeepLearning_Paper_Review/blob/main/summary_notes/End%20to%20End%20Incremental%20Learning.pdf) / [Code](https://github.com/fmcp/EndToEndIncrementalLearning)
