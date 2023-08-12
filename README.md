@@ -11,6 +11,10 @@
 
 * EEIL: End to End Incremental Learning **(EECV2018)**
   * [Paper Link](https://arxiv.org/abs/1807.09536) / [Paper review PDF](https://github.com/ahhnchangjun/DeepLearning_Paper_Review/blob/main/summary_notes/End%20to%20End%20Incremental%20Learning.pdf) / [Code](https://github.com/fmcp/EndToEndIncrementalLearning)
+ 
+* Memory Aware Synapses: Learning what(not) to forget **(ECCV2018)**
+  * [Paper Link](https://arxiv.org/abs/1711.09601) / [Paper review PDF](https://github.com/ahhnchangjun/DeepLearning_Paper_Review/blob/main/summary_notes/Memory%20Aware%20Synapses%20Learning%20what(not)%20to%20forget%20(ECCV%202018).pdf) / [Code](https://github.com/wannabeOG/MAS-PyTorch)
+   
 * DMC: Class-Incremental Learning via Deep Model Consolidation **(WACV2020)**
   * [Paper Link](https://arxiv.org/abs/1903.07864) / [Paper review PDF](https://github.com/ahhnchangjun/DeepLearning_Paper_Review/blob/main/summary_notes/Class-incremental%20Learning%20via%20Deep%20Model%20Consolidation.pdf) / [Code](https://github.com/ahhnchangjun/DeepModelConsolidation/tree/main/DeepModelConsolidation(DMC))
 
