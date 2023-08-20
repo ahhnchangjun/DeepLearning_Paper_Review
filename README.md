@@ -17,6 +17,9 @@
    
 * DMC: Class-Incremental Learning via Deep Model Consolidation **(WACV2020)**
   * [Paper Link](https://arxiv.org/abs/1903.07864) / [Paper review PDF](https://github.com/ahhnchangjun/DeepLearning_Paper_Review/blob/main/summary_notes/Class-incremental%20Learning%20via%20Deep%20Model%20Consolidation.pdf) / [Code](https://github.com/ahhnchangjun/DeepModelConsolidation/tree/main/DeepModelConsolidation(DMC))
+ 
+* CPR: CLASSIFIER-PROJECTION REGULARIZATION FOR CONTINUAL LEARNING
+  * [Paper Link](https://arxiv.org/abs/2006.07326) / [Paper review PDF](https://github.com/ahhnchangjun/DeepLearning_Paper_Review/blob/main/summary_notes/CPR-CLASSIFIER-PROJECTION%20REGULARIZATION%20FOR%20CONTINUAL%20LEARNING.pdf) / [Code](https://github.com/csm9493/CPR_CL)
 
 **Computer Vision**
 
